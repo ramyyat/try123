@@ -4,6 +4,9 @@
     color: brown;
     background-color: burlywood;
     text-align: center;
+    font-family: fantasy;
+    border-radius: 15px;
+    box-shadow: darkred 1px 1px 17px;
 }
 
 body{
